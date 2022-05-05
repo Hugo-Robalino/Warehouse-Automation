@@ -1,3 +1,5 @@
+-*- asp -*-
+
 %PRACTICE INSTANCE:- Grid and objects
 #const n=13.
 
