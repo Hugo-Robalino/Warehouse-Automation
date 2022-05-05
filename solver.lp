@@ -1,5 +1,4 @@
-%#include "generatedInstances/N001.lp.lp".
-#include "generatedInstances/N001.lp".
+#include "nano_instance0.lp".
 #const h=3.
 
 %REPRESENTATION (of objects)
