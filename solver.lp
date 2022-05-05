@@ -1,3 +1,5 @@
+-*- asp -*-
+
 #include "nano_instance0.lp".
 #const h=3.
 
