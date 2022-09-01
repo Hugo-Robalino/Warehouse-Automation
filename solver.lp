@@ -1,3 +1,5 @@
+-*- asp -*-
+
 %REPRESENTATION (of objects)
 robot(R) :- init(object(robot,R),_). 
 shelf(S) :- init(object(shelf,S),_).
