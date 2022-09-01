@@ -1,3 +1,5 @@
+-*- asp -*-
+
 #program base.
 
 % init
