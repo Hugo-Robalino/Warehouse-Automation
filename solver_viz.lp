@@ -1,3 +1,5 @@
+-*- asp -*-
+
 %New occur atoms
 occur(R,A,T) :- occurs_m(R,A,T).
 occur(R,A,T) :- occurs_p(R,A,T).
