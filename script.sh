@@ -1,7 +1,7 @@
 #! /bin/bash
 # HOW TO RUN IT
+# Run the following command for creating the solutions to the axamples provided in the generatedInstances directory
 # sh script.sh <str, example name> <int, horizon>
-# gen -x 4 -y 4 -s 2 -p 2 -r 2 -P 3 -u 20 -o 1
 
 mkdir generatedInstances/$1
 clingo solver.lp generatedInstances/$1.lp -c h=$2 10 > generatedInstances/$1/$1_results.lp
