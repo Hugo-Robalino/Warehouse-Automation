@@ -4,3 +4,7 @@ This project is about intra-logistics and warehouse automation. All information 
 The primary goal of this project is to enable parallelization of actions performed by agents in a warehouse grid. Specifically, agents are now able to perform two actions per time-step, as opposed to the single action allowed in the original encoding.
 
 Parallelization of actions is based on this [paper](https://www.sciencedirect.com/science/article/pii/S0004370206000774).
+
+How to use it?
+
+The main file to be used is script.sh, the instructions on how to use the file are found at the beginning of said file.
